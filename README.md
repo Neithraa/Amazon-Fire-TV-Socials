@@ -1,6 +1,14 @@
 
 # FireTV Socials
 
+## Contributors
+
+- Nethra N
+- P Asmitha Priyaa 
+- Gurucharan K.G
+- Dev S
+
+
 ## Overview
 
 FireTV Socials is a next-generation social companion platform for shared entertainment experiences. Built with a modern stack comprising React (TypeScript) on the frontend and FastAPI on the backend, it integrates intelligent movie recommendations using the Ollama3 large language model.
@@ -129,10 +137,5 @@ Screenshots available in `/assets/screenshots/`.
 
 ---
 
-## Contributors
 
-- Nethra N
-- Gurucharan K.G
-- Dev S
-- Asmitha Priyaa P
 
